@@ -4,6 +4,13 @@
 ### Project Overview
 The project is an interactive work of art that mimics a mural that reflects the color, movement, and light of the sun, under the theme "Fusion of Nature and Science". Using real-time data from light and color sensors, this immersive, reactive artwork dynamically adjusts to changes in the environment. Arduino and iPad were used for implementation, and the outer frame (mural) was designed using a laser cutter. Please click on the Youtube link below to see the design of the artwork.
 
+[![YouTube Video](https://img.youtube.com/vi/2enRfUNRr8E/0.jpg)](https://www.youtube.com/watch?v=2enRfUNRr8E)
+
+
+
+
+
+
 ### Features
 - **Real-time Light Simulation:** The mural dynamically adjusts brightness and color based on real-time data from light and color sensors.
 - **Immersive Experience:** The installation provides a unique, engaging experience that transforms viewers into active participants.
@@ -43,6 +50,10 @@ For a detailed explanation of the project, please watch our [YouTube video](http
 
 ### プロジェクト概要
 このプロジェクトは、「自然と科学の融合」というテーマで、太陽の色、動き、光を反映させる壁画を模造したインタラクティブな作品です。光と色のセンサーからのリアルタイムデータを利用することで、環境の変化に応じて動的に調整される没入型の反応するアート作品です。実装にはArduinoとiPadを使用し、外枠（壁画）をレーザーカッターを使用してデザインしました。作品のデザインは以下のYoutubeリンクからご覧下さい。
+
+[![YouTube Video](https://img.youtube.com/vi/2enRfUNRr8E/0.jpg)](https://www.youtube.com/watch?v=2enRfUNRr8E)
+
+
 
 ### 特徴
 - **リアルタイム光シミュレーション:** 光と色のセンサーからのリアルタイムデータに基づいて、壁画の明るさと色が動的に調整されます。
