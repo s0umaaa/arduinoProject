@@ -1,6 +1,8 @@
 
 # Interactive Mural: Exploring Sunlight and Sensor-Based Art
 
+日本語の説明文は後半にあります
+
 <img width="445" alt="スクリーンショット 2024-06-21 17 39 42" src="https://github.com/s0umaaa/arduinoProject/assets/62178616/7d7da359-a159-490f-8d9e-dea5fdb31f3d">
 
 ### Project Overview
