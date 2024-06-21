@@ -33,17 +33,16 @@ This project explores the integration of sensor technology with contemporary art
 ### Video Explanation
 For a detailed explanation of the project, please watch our [YouTube video](https://www.youtube.com/watch?v=2enRfUNRr8E).
 
-### Authors
-- Sixuan Chen - [sixchen1@student.unimelb.edu.au](mailto:sixchen1@student.unimelb.edu.au)
-- Jiayuan Li - [jiayuan5@student.unimelb.edu.au](mailto:jiayuan5@student.unimelb.edu.au)
-- Soma Hayasaka - [hayasakas@student.unimelb.edu.au](mailto:hayasakas@student.unimelb.edu.au)
+### Members
+- Sixuan Chen
+- Jiayuan Li
 
 ---
 
 ## 日本語
 
 ### プロジェクト概要
-このプロジェクトでは、センサー技術と現代アートを統合し、インタラクティブな壁画に日光の効果をシミュレートすることを探求します。光と色のセンサーからのリアルタイムデータを利用することで、環境の変化に応じて動的に調整される没入型の反応するアート体験を提供します。
+このプロジェクトは、「自然と科学の融合」というテーマで、太陽の色、動き、光を反映させる壁画を模造したインタラクティブな作品です。光と色のセンサーからのリアルタイムデータを利用することで、環境の変化に応じて動的に調整される没入型の反応するアート作品です。実装にはArduinoとiPadを使用し、外枠（壁画）をレーザーカッターを使用してデザインしました。作品のデザインは以下のYoutubeリンクからご覧下さい。
 
 ### 特徴
 - **リアルタイム光シミュレーション:** 光と色のセンサーからのリアルタイムデータに基づいて、壁画の明るさと色が動的に調整されます。
@@ -74,7 +73,6 @@ For a detailed explanation of the project, please watch our [YouTube video](http
 ### 説明動画
 プロジェクトの詳細な説明については、[YouTube動画](https://www.youtube.com/watch?v=2enRfUNRr8E)をご覧ください。
 
-### 著者
-- Sixuan Chen - [sixchen1@student.unimelb.edu.au](mailto:sixchen1@student.unimelb.edu.au)
-- Jiayuan Li - [jiayuan5@student.unimelb.edu.au](mailto:jiayuan5@student.unimelb.edu.au)
-- Soma Hayasaka - [hayasakas@student.unimelb.edu.au](mailto:hayasakas@student.unimelb.edu.au)
+### チームメンバー
+- Sixuan Chen
+- Jiayuan Li
