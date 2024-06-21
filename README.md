@@ -2,7 +2,7 @@
 # Interactive Mural: Exploring Sunlight and Sensor-Based Art
 
 ### Project Overview
-This project explores the integration of sensor technology with contemporary art to simulate sunlight effects on an interactive mural. By utilizing real-time data from light and color sensors, the installation dynamically adjusts to environmental changes, creating an immersive and responsive art experience.
+The project is an interactive work of art that mimics a mural that reflects the color, movement, and light of the sun, under the theme "Fusion of Nature and Science". Using real-time data from light and color sensors, this immersive, reactive artwork dynamically adjusts to changes in the environment. Arduino and iPad were used for implementation, and the outer frame (mural) was designed using a laser cutter. Please click on the Youtube link below to see the design of the artwork.
 
 ### Features
 - **Real-time Light Simulation:** The mural dynamically adjusts brightness and color based on real-time data from light and color sensors.
