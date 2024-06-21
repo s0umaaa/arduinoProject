@@ -1,6 +1,8 @@
 
 # Interactive Mural: Exploring Sunlight and Sensor-Based Art
 
+<img width="445" alt="スクリーンショット 2024-06-21 17 39 42" src="https://github.com/s0umaaa/arduinoProject/assets/62178616/7d7da359-a159-490f-8d9e-dea5fdb31f3d">
+
 ### Project Overview
 The project is an interactive work of art that mimics a mural that reflects the color, movement, and light of the sun, under the theme "Fusion of Nature and Science". Using real-time data from light and color sensors, this immersive, reactive artwork dynamically adjusts to changes in the environment. Arduino and iPad were used for implementation, and the outer frame (mural) was designed using a laser cutter. Please click on the Youtube link below to see the design of the artwork.
 
@@ -47,6 +49,9 @@ For a detailed explanation of the project, please watch our [YouTube video](http
 ---
 
 ## 日本語
+
+<img width="445" alt="スクリーンショット 2024-06-21 17 39 42" src="https://github.com/s0umaaa/arduinoProject/assets/62178616/ed78cbb9-d239-41b9-bf62-6dea1db08d26">
+
 
 ### プロジェクト概要
 このプロジェクトは、「自然と科学の融合」というテーマで、太陽の色、動き、光を反映させる壁画を模造したインタラクティブな作品です。光と色のセンサーからのリアルタイムデータを利用することで、環境の変化に応じて動的に調整される没入型の反応するアート作品です。実装にはArduinoとiPadを使用し、外枠（壁画）をレーザーカッターを使用してデザインしました。作品のデザインは以下のYoutubeリンクからご覧下さい。
